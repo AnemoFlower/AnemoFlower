@@ -14,7 +14,8 @@
 ## 常用设备
 
 - MacBook Pro 2020 Intel（macOS 12.7.4 + macOS 13.7.8 + macOS 14.8 + macOS 15.7 + Windows 10）
-- MacBook Air 2024 M3（macOS 26.0.1）
+- MacBook Air 2024 M3（macOS 26.1）
+- Raspberry Pi 5（Ubuntu 24.04.3 LTS）
 
 ## 兴趣爱好
 
